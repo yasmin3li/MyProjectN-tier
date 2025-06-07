@@ -1,0 +1,15 @@
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.deps.json
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.pdb
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.pdb
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\refint\Business.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.pdb
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\Business\obj\Debug\net9.0\ref\Business.dll

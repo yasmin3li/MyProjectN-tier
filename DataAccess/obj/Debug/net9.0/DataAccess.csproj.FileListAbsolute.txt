@@ -1,0 +1,11 @@
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+D:\fourth\SE2\New folder\New folder\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
