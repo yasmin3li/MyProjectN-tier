@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\fl8000\\.nuget\\packages\\",
-      "outputPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Web\\obj\\",
+      "outputPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fl8000\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Business\\Business.csproj": {
-              "projectPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Business\\Business.csproj"
+            "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Business\\Business.csproj": {
+              "projectPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Business\\Business.csproj"
             }
           }
         }

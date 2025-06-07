@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\fl8000\\.nuget\\packages\\",
-      "outputPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\DataAccess\\obj\\",
+      "outputPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fl8000\\AppData\\Roaming\\NuGet\\NuGet.Config"

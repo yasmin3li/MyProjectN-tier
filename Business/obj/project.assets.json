@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Business\\Business.csproj",
+      "projectPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\fl8000\\.nuget\\packages\\",
-      "outputPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\Business\\obj\\",
+      "outputPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fl8000\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\fourth\\SE2\\New folder\\New folder\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
+            "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\fourth\\SE2\\updateIndex\\MyProjectN-tier\\DataAccess\\DataAccess.csproj"
             }
           }
         }
